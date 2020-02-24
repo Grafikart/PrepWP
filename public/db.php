@@ -1,0 +1,1 @@
+/Users/jonathanboyer/Sites/Lab/WordPress/public/plugins/query-monitor/wp-content/db.php
